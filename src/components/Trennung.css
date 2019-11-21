@@ -1,0 +1,18 @@
+section{
+    color: white;
+}
+div{
+    color: white;
+}
+.feld{
+   width: 250px;
+}
+input:hover{
+    transition: 5s;
+    transform: scale(1.3);
+    background-color: gray;
+    color: white;
+}
+.button:hover{
+    transform: scale(1.3);
+}
